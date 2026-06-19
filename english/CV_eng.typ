@@ -36,7 +36,7 @@
       // Foto de perfil referenciada a la carpeta PIC
       #align(center)[
         #box(clip: true, radius: 50%, width: 105pt, height: 105pt)[
-          #image("PIC/yo3.jpeg", width: 100%, fit: "cover")
+          #image("../PIC/yo3.jpeg", width: 100%, fit: "cover")
         ]
       ]
 
@@ -54,11 +54,11 @@
         justify: true,
       )[My areas of interest are Computer Vision, NLP, GenAI and Geoinformation analysis. I am currently investigating how to apply LLMs to Goespatial information processing.]
 
-      #box(width: 10pt, baseline: 20%)[#image("PIC/mail.svg")]
+      #box(width: 10pt, baseline: 20%)[#image("../PIC/mail.svg")]
       #link("mailto:juan.canada.carril@gmail.com")[juan.canada.carril\@gmail.com]\
-      #box(width: 10pt, baseline: 20%)[#image("PIC/phone.svg")]
+      #box(width: 10pt, baseline: 20%)[#image("../PIC/phone.svg")]
       +34 655038791 \
-      #box(width: 10pt, baseline: 20%)[#image("PIC/place.svg")] Gijón, España
+      #box(width: 10pt, baseline: 20%)[#image("../PIC/place.svg")] Gijón, España
 
       #side-section("LANGUAGES")
       *Spanish* - Native \
@@ -220,9 +220,9 @@
       #v(2pt)
       #align(right)[
         #text(size: 8.5pt, fill: gray.darken(30%))[
-          *ORCID:* #link("https://orcid.org/0009-0009-7223-9815")[#box(width: 10pt, baseline: 20%)[#image("PIC/orcid-svgrepo-com.svg")] 0009-0009-7223-9815] #h(14pt)
+          *ORCID:* #link("https://orcid.org/0009-0009-7223-9815")[#box(width: 10pt, baseline: 20%)[#image("../PIC/orcid-svgrepo-com.svg")] 0009-0009-7223-9815] #h(14pt)
           *Portfolio:* #link("https://juancc-00.github.io/Portfolio/")[Juan Cañada↗] #h(16pt)
-          *LinkedIn:* #link("www.linkedin.com/in/juan-cc")[Juan Cañada #box(width: 10pt, baseline: 20%)[#image("PIC/LI-logo.svg")]]
+          *LinkedIn:* #link("www.linkedin.com/in/juan-cc")[Juan Cañada #box(width: 10pt, baseline: 20%)[#image("../PIC/LI-logo.svg")]]
         ]
       ]
     ]
