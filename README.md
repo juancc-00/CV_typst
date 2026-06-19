@@ -1,6 +1,6 @@
 # Uso
 
-## 1. Instalar motor typst
+## 1. Instalar motor typst (windows)
 ```console
 winget install typst
 ```
